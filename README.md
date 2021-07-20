@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @fomgleb
-- 👀 I’m interested in UNITY
-- 🌱 I’m currently learning GAMEDEV
-- 💞️ I’m looking to collaborate on UNITY
-- 📫 How to reach me: IN UNITY
+- 👋 Hi, I’m @fomgleb.
+- 👀 I’m interested in unity, C#, Visual Studio.
+- 🌱 I’m currently learning gamedev.
 
 <!---
 fomgleb/fomgleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
