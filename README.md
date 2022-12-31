@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fomgleb.
-- 👀 I’m interested in C#, WinForms, WPF, maui.
+- 👀 I’m interested in C#, Unity, WPF, maui.
 - 🌱 I’m currently learning maui.
 - 🕹️ My games on itch.io: https://fomgleb.itch.io/.
 
