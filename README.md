@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fomgleb.
 - 👀 I’m interested in C#, C, Unity, WPF, maui.
-- 💻 I'm currently working on https://github.com/fomgleb/uchat
 - 🕹️ My games on itch.io: https://fomgleb.itch.io/.
 
 <!-- - 🌱 I’m currently learning maui. -->
