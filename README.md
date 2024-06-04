@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @fomgleb.
-- 👀 I’m now learning C++.
 - 🕹️ My games on itch.io: https://fomgleb.itch.io/.
